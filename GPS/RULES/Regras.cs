@@ -13,12 +13,10 @@ namespace RULES
         {
             //busca todos os amigos cadastrados
             List<Amigo> lstAmigos = LocalizarAmigos();
-
+            //verifica a localizacao
             List<Localizacao> lstLocal = VerificaLocalizacao(lstAmigos);
 
             return lstLocal;
-
-
         }
 
 

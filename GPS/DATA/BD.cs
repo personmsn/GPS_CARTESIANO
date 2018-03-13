@@ -67,59 +67,5 @@ namespace DATA
             return lst;
         }
 
-        public static Amigo GetAmigo(string nome)
-        {
-            Amigo objAmigo = new Amigo();
-
-            switch (nome)
-            {
-                case "Renato":
-                    objAmigo.ID = 1;
-                    objAmigo.Nome = "Renato";
-                    objAmigo.X = 11;
-                    objAmigo.Y = 1;
-                    break;
-                case "Marcos":
-                    objAmigo.ID = 2;
-                    objAmigo.Nome = "Marcos";
-                    objAmigo.X = 15;
-                    objAmigo.Y = 15;
-                    break;
-                case "Daniel":
-                    objAmigo.ID = 3;
-                    objAmigo.Nome = "Daniel";
-                    objAmigo.X = 12;
-                    objAmigo.Y = 10;
-                    break;
-                case "Pedro":
-                    objAmigo.ID = 4;
-                    objAmigo.Nome = "Pedro";
-                    objAmigo.X = 15;
-                    objAmigo.Y = 6;
-                    break;
-                case "Rodrigo":
-                    objAmigo.ID = 5;
-                    objAmigo.Nome = "Rodrigo";
-                    objAmigo.X = 9;
-                    objAmigo.Y = 12;
-                    break;
-                case "Bruno":
-                    objAmigo.ID = 6;
-                    objAmigo.Nome = "Bruno";
-                    objAmigo.X = 4;
-                    objAmigo.Y = 5;
-                    break;
-                case "Alex":
-                    objAmigo.ID = 7;
-                    objAmigo.Nome = "Alex";
-                    objAmigo.X = 1;
-                    objAmigo.Y = 1;
-                    break;
-            }
-
-            return objAmigo;
-        }
-
-
     }
 }
