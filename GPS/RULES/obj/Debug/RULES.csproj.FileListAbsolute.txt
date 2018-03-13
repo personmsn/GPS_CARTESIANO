@@ -1,0 +1,9 @@
+C:\_Person\Pessoal\GPS\GPS\RULES\obj\Debug\RULES.csprojResolveAssemblyReference.cache
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\RULES.dll
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\RULES.pdb
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\BE.dll
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\DATA.dll
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\BE.pdb
+C:\_Person\Pessoal\GPS\GPS\RULES\bin\Debug\DATA.pdb
+C:\_Person\Pessoal\GPS\GPS\RULES\obj\Debug\RULES.dll
+C:\_Person\Pessoal\GPS\GPS\RULES\obj\Debug\RULES.pdb

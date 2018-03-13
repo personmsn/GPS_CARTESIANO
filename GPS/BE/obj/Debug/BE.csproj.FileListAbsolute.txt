@@ -1,0 +1,4 @@
+C:\_Person\Pessoal\GPS\GPS\BE\bin\Debug\BE.dll
+C:\_Person\Pessoal\GPS\GPS\BE\bin\Debug\BE.pdb
+C:\_Person\Pessoal\GPS\GPS\BE\obj\Debug\BE.dll
+C:\_Person\Pessoal\GPS\GPS\BE\obj\Debug\BE.pdb

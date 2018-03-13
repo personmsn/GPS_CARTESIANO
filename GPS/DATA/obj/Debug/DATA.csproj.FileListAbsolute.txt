@@ -1,0 +1,7 @@
+C:\_Person\Pessoal\GPS\GPS\DATA\bin\Debug\DATA.dll
+C:\_Person\Pessoal\GPS\GPS\DATA\bin\Debug\DATA.pdb
+C:\_Person\Pessoal\GPS\GPS\DATA\bin\Debug\BE.dll
+C:\_Person\Pessoal\GPS\GPS\DATA\bin\Debug\BE.pdb
+C:\_Person\Pessoal\GPS\GPS\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\_Person\Pessoal\GPS\GPS\DATA\obj\Debug\DATA.dll
+C:\_Person\Pessoal\GPS\GPS\DATA\obj\Debug\DATA.pdb
